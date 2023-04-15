@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Pomodoro Timer
- * Plugin URI: https://example.com/pomodoro-timer
+ * Plugin URI: https://github.com/roprice/wp-pomodoro
  * Description: Adds a Pomodoro timer to the WordPress admin toolbar.
  * Version: 1.0.0
  * Author: Message Maps LLC
